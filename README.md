@@ -13,3 +13,4 @@ Click here to find out more about the course, and how we build these assets step
 
 Lecture List
 BT01 Intro, Notes & Assets
+BT02 Game Design Document (GDD)
